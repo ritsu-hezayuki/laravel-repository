@@ -1,0 +1,19 @@
+{
+    "name": "ritsuphp/laravel-repository",
+    "description": "PHP Package to Implement Repository Pattern",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ritsuphp\\LaravelRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ritsu Hezayuki",
+            "email": "ritsu.hezayuki@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
